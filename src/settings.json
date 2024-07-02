@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate Your Standards with Professional-Grade Solutions",
+        "title": "Unleash Precision Testing"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Precision Testing",
+  "subtitle": "Elevate Your Standards with Professional-Grade Solutions"
+}
